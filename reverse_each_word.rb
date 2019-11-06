@@ -6,5 +6,5 @@ def reverse_each_word(string)
     n.reverse
   }
 
-  new_array.join
+  new_array.join(" ")
 end
